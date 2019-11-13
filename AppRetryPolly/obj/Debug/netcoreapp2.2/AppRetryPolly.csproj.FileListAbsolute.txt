@@ -1,0 +1,14 @@
+C:\Users\wodson.correia\Desktop\AppRetryPolly\AppRetryPolly\bin\Debug\netcoreapp2.2\AppRetryPolly.deps.json
+C:\Users\wodson.correia\Desktop\AppRetryPolly\AppRetryPolly\bin\Debug\netcoreapp2.2\AppRetryPolly.runtimeconfig.json
+C:\Users\wodson.correia\Desktop\AppRetryPolly\AppRetryPolly\bin\Debug\netcoreapp2.2\AppRetryPolly.runtimeconfig.dev.json
+C:\Users\wodson.correia\Desktop\AppRetryPolly\AppRetryPolly\bin\Debug\netcoreapp2.2\AppRetryPolly.dll
+C:\Users\wodson.correia\Desktop\AppRetryPolly\AppRetryPolly\bin\Debug\netcoreapp2.2\AppRetryPolly.pdb
+C:\Users\wodson.correia\Desktop\AppRetryPolly\AppRetryPolly\obj\Debug\netcoreapp2.2\AppRetryPolly.csproj.CoreCompileInputs.cache
+C:\Users\wodson.correia\Desktop\AppRetryPolly\AppRetryPolly\obj\Debug\netcoreapp2.2\AppRetryPolly.RazorAssemblyInfo.cache
+C:\Users\wodson.correia\Desktop\AppRetryPolly\AppRetryPolly\obj\Debug\netcoreapp2.2\AppRetryPolly.RazorAssemblyInfo.cs
+C:\Users\wodson.correia\Desktop\AppRetryPolly\AppRetryPolly\obj\Debug\netcoreapp2.2\AppRetryPolly.AssemblyInfoInputs.cache
+C:\Users\wodson.correia\Desktop\AppRetryPolly\AppRetryPolly\obj\Debug\netcoreapp2.2\AppRetryPolly.AssemblyInfo.cs
+C:\Users\wodson.correia\Desktop\AppRetryPolly\AppRetryPolly\obj\Debug\netcoreapp2.2\AppRetryPolly.RazorTargetAssemblyInfo.cache
+C:\Users\wodson.correia\Desktop\AppRetryPolly\AppRetryPolly\obj\Debug\netcoreapp2.2\AppRetryPolly.dll
+C:\Users\wodson.correia\Desktop\AppRetryPolly\AppRetryPolly\obj\Debug\netcoreapp2.2\AppRetryPolly.pdb
+C:\Users\wodson.correia\Desktop\AppRetryPolly\AppRetryPolly\obj\Debug\netcoreapp2.2\AppRetryPolly.csprojAssemblyReference.cache
